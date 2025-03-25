@@ -1,0 +1,1 @@
+You can use this codebase to integrate UIPath using Gitlab CI/CD to automate the test case and then trugger them using orchestrator
